@@ -1,0 +1,7 @@
+---
+title: "README"
+output: html_document
+date: '2022-07-12'
+---
+
+This is a project by Kasey Wang analyzing data on various blockbuster movies. It uses the blockbusters dataset from [GitHub] https://github.com/the-codingschool/Cyber/blob/master/Web-Security/blockbusters.csv
